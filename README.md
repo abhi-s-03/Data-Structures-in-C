@@ -2,14 +2,16 @@
 
 This repository contains implementations of various data structures in C programming language. The following data structures are currently included:
 
-- Linked List
 - Stack
 - Queue
+- Sparse Matrix
+- Linked List
 - Binary Tree
 - Binary Search  Tree
 - Graph
 - Hash Table
 
+Sorting algorithms and convertion of infix to prefix and postfix expressions are also included.
 
 ## Getting Started
 
